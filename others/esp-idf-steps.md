@@ -50,3 +50,6 @@ idf.py build
 sudo chmod a+rw /dev/ttyUSB0
 idf.py -p /dev/ttyUSB0 -b 115200 flash
 ```
+
+### *references:* 
+- *ESP-IDF documentation: <a href= "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/0"> Get Started </a>*
