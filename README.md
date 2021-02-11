@@ -9,7 +9,7 @@ In this project, I will try to run a **computer vision application on ESP32**.
 - [x] Blinking ESP32 (using each of *esp-idf* and *arduino*)
 - [x] Running a *Hello, World* web server on ESP32.
 - [x] A server with HTML and JS to upload pictures. 
-- [ ] Running SPIFFS, passing pictures to ESP32 through SPIFFS. 
+- [x] Running SPIFFS, passing pictures to ESP32 through SPIFFS. 
 - [ ] Running ML model on ESP32.
 
 ### Progress
