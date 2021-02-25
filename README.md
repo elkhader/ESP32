@@ -5,5 +5,8 @@
 **Flash:** 4MB
 **SRAM:** 540 KB
 
+
+### Tools: 
+SPIFFS, TensorFlow Lite. 
 ### Progress
 ![alt text](./others/progress.png)
